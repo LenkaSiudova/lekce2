@@ -31,3 +31,4 @@ document.body.innerHTML += "<p> Hod kostkou 1: " +hodKostkou1+" </p>";
 document.body.innerHTML += "<p> Hod kostkou 2: " +hodKostkou2+ " </p>";
 console.log(hodKostkou1)
 console.log(hodKostkou2)
+
